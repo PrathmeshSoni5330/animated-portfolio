@@ -5,29 +5,29 @@ const certifications = {
     list: [
         {
             size: 1,
-            title: 'DevOps on AWS Specialization',
-            platform: 'Coursera',
+            title: 'Winter Consulting 2024',
+            platform: 'IIT Guwahati',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
-            logo: '/assets/aws.png',
+            date: 'Issued Jan 2025 · No Expiration Date',
+            logo: '/assets/CAG.png',
             aos: 'zoom-out-left'
         },
         {
             size: 1,
-            title: 'Docker for absolute beginners',
-            platform: 'Coursera',
+            title: 'Goldman Sachs-Operations Job Simulation',
+            platform: 'Forage',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
-            logo: '/assets/docker.png',
+            date: 'Issued Nov 2024 · No Expiration Date',
+            logo: '/assets/goldman.png',
             aos: 'zoom-out-right'
         },
         {
             size: 1,
-            title: 'AWS Cloud Technical Essentials',
-            platform: 'Coursera',
+            title: 'Strategy Storm 2025',
+            platform: 'IIT Guwahati',
             link: '',
-            date: 'Issued Aug 2022 · No Expiration Date',
-            logo: '/assets/aws.png',
+            date: 'Issued Jan 2025 · No Expiration Date',
+            logo: '/assets/strategystorm.png',
             aos: 'zoom-out-left'
         },
         {
