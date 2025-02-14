@@ -13,7 +13,35 @@ const works = {
                         'My role also involved presenting insights to stakeholders, ensuring actionable and impactful solutions.'
                     ],
                 },
+                // {
+                //     role: 'Founder',
+                //     duration: 'Onsite | Nov 2024 - Present',
+                //     points: [
+                //         `As the founder of The Insight Foundry, I led a consulting firm focused on strategy, finance, and business optimization.`,
+                //         "I worked closely with clients to solve complex business challenges through data-driven insights, financial modeling, and market research. My role involved developing growth strategies, optimizing operations, and advising on financial planning to drive tangible results.",
+                //         'I also built and managed a team, ensuring high-quality deliverables and impactful solutions for businesses.'
+                //     ],
+                // }
+            ]
+        },
+        {
+            company: 'Unified Mentor',
+            jobs: [
                 {
+                    role: 'Business Analyst -Intern',
+                    duration: 'Remote Job | Jan 2024 - Feb 2024',
+                    points: [
+                        `As a Business Analyst Intern at Unified Mentor, I worked on market research, data analysis, and business strategy development to help improve the company’s operations.`,
+                        " I analyzed key performance metrics, identified growth opportunities, and provided data-driven recommendations to enhance decision-making.",
+                        'My role also involved streamlining business processes, conducting competitor analysis, and preparing insightful reports for stakeholders. Let me know if you’d like to highlight any specific projects!'
+                    ],
+                },
+            ]
+        },
+        {
+            company: 'The Insight Foundry',
+            jobs: [
+                 {
                     role: 'Founder',
                     duration: 'Onsite | Nov 2024 - Present',
                     points: [
@@ -22,20 +50,6 @@ const works = {
                         'I also built and managed a team, ensuring high-quality deliverables and impactful solutions for businesses.'
                     ],
                 }
-            ]
-        },
-        {
-            company: 'Business Analyst',
-            jobs: [
-                {
-                    role: 'Intern',
-                    duration: 'Remote Job | Jan 2024 - Feb 2024',
-                    points: [
-                        `As a Business Analyst Intern at Unified Mentor, I worked on market research, data analysis, and business strategy development to help improve the company’s operations.`,
-                        " I analyzed key performance metrics, identified growth opportunities, and provided data-driven recommendations to enhance decision-making.",
-                        'My role also involved streamlining business processes, conducting competitor analysis, and preparing insightful reports for stakeholders. Let me know if you’d like to highlight any specific projects!'
-                    ],
-                },
             ]
         },
         {
