@@ -30,24 +30,24 @@ const certifications = {
             logo: '/assets/strategystorm.png',
             aos: 'zoom-out-left'
         },
-        {
-            size: 1,
-            title: 'Certified Mobile and Web App Developer',
-            platform: 'SMIT | Saylani Mass IT Training',
-            link: '',
-            date: 'Issued Feb 2019 · No Expiration DateIssued',
-            logo: '/assets/smit.png',
-            aos: 'zoom-out-right'
-        },
-        {
-            size: 2,
-            title: 'Hackathon on creating OLX App using PWA Development',
-            platform: 'SMIT | Saylani Mass IT Training',
-            link: '',
-            date: 'Issued Jul 2018 · No Expiration Date',
-            logo: '/assets/smit.png',
-            aos: 'zoom-out-left'
-        },
+        // {
+        //     size: 1,
+        //     title: 'Certified Mobile and Web App Developer',
+        //     platform: 'SMIT | Saylani Mass IT Training',
+        //     link: '',
+        //     date: 'Issued Feb 2019 · No Expiration DateIssued',
+        //     logo: '/assets/smit.png',
+        //     aos: 'zoom-out-right'
+        // },
+        // {
+        //     size: 2,
+        //     title: 'Hackathon on creating OLX App using PWA Development',
+        //     platform: 'SMIT | Saylani Mass IT Training',
+        //     link: '',
+        //     date: 'Issued Jul 2018 · No Expiration Date',
+        //     logo: '/assets/smit.png',
+        //     aos: 'zoom-out-left'
+        // },
     ],
     handleIconClick: openLink
 }
